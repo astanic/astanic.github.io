@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://astanic.github.io/sitemap.xml
