@@ -24,6 +24,50 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+.header-links-container {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 6px 18px;
+  background-color: var(--global-bg-color-secondary, rgba(0, 0, 0, 0.04));
+  border: 1px solid var(--global-divider-color, rgba(0, 0, 0, 0.12));
+  border-radius: 25px;
+  margin-bottom: 16px;
+  font-size: 0.92rem;
+  font-weight: 500;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+.header-links-container a {
+  color: var(--global-theme-color, #ab2b52) !important;
+  text-decoration: none !important;
+  transition: opacity 0.2s ease;
+}
+.header-links-container a:hover {
+  opacity: 0.75;
+  text-decoration: underline !important;
+}
+.header-link-divider {
+  color: var(--global-text-color-light, #888);
+  margin: 0 6px;
+  font-weight: 300;
+}
+</style>
+
+<div class="header-links-container">
+  <a href="mailto:aleksandar@idsia.ch">Email</a>
+  <span class="header-link-divider">/</span>
+  <a href="/assets/pdf/cv.pdf">CV</a>
+  <span class="header-link-divider">/</span>
+  <a href="https://github.com/astanic/" target="_blank">GitHub</a>
+  <span class="header-link-divider">/</span>
+  <a href="https://scholar.google.com/citations?user=tx0opKcAAAAJ" target="_blank">Google Scholar</a>
+  <span class="header-link-divider">/</span>
+  <a href="https://twitter.com/aleks_stanic" target="_blank">Twitter</a>
+  <span class="header-link-divider">/</span>
+  <a href="/assets/pdf/thesis.pdf">PhD Thesis</a>
+</div>
+
 I am a Research Scientist at [Google DeepMind](https://deepmind.google/) working on vision and language models and other fundamental problems in Artificial Intelligence.
 
 Previously, I obtained a PhD in Informatics (Artificial Intelligence) at the [Swiss AI lab IDSIA](http://idsia.ch/), under the supervision of [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/), where I worked on unsupervised/self-supervised representation learning.
