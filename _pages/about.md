@@ -55,6 +55,7 @@ latest_posts:
 </style>
 
 <div class="header-links-container">
+  <a href="mailto:aleksandar@idsia.ch">Email</a>
   <a href="mailto:aleksandar.stanic@gmail.com">Email</a>
   <span class="header-link-divider">/</span>
   <a href="/assets/pdf/cv.pdf">CV</a>
@@ -64,6 +65,8 @@ latest_posts:
   <a href="https://scholar.google.com/citations?user=tx0opKcAAAAJ" target="_blank">Google Scholar</a>
   <span class="header-link-divider">/</span>
   <a href="https://twitter.com/aleks_stanic" target="_blank">Twitter</a>
+  <span class="header-link-divider">/</span>
+  <a href="https://www.linkedin.com/in/aleksandar-stani%C4%87-8639a373/" target="_blank">LinkedIn</a>
   <span class="header-link-divider">/</span>
   <a href="/assets/pdf/thesis.pdf">PhD Thesis</a>
 </div>

@@ -5,5 +5,7 @@ cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 email: aleksandar.stanic@gmail.com # your email address
 github_username: astanic
 scholar_userid: tx0opKcAAAAJ # your Google Scholar ID
+linkedin_username: aleksandar-stanić-8639a373
 x_username: aleks_stanic
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
+
