@@ -55,7 +55,7 @@ latest_posts:
 </style>
 
 <div class="header-links-container">
-  <a href="mailto:aleksandar@idsia.ch">Email</a>
+  <a href="mailto:aleksandar.stanic@gmail.com">Email</a>
   <span class="header-link-divider">/</span>
   <a href="/assets/pdf/cv.pdf">CV</a>
   <span class="header-link-divider">/</span>
